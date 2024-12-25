@@ -19,7 +19,7 @@ export default function Hero() {
           </div>
           <div className="relative">
             <img
-              src="https://github.com/hassananwar01/portfolio/blob/main/src/img/thumbnail.png?raw=true"
+              src="https://github.com/hassananwar01/img/blob/main/thumbnail.png?raw=true"
               alt="X-ray Analysis"
               className="rounded-lg shadow-xl"
             />
