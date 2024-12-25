@@ -19,7 +19,7 @@ export default function Hero() {
           </div>
           <div className="relative">
             <img
-              src="https://img.freepik.com/free-photo/making-diagnosis-team-task-doctors-looking-patient-s-x-ray_1157-48130.jpg?ga=GA1.1.1194610793.1724149890&semt=ais_hybrid"
+              src="https://github.com/hassananwar01/portfolio/blob/main/src/img/thumbnail.png?raw=true"
               alt="X-ray Analysis"
               className="rounded-lg shadow-xl"
             />

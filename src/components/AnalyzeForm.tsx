@@ -30,12 +30,12 @@ export default function AnalyzeForm() {
   return (
     <section id="analyze" className="py-16 bg-gray-50">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-3xl font-bold text-center mb-12">Analyze Your X-Ray</h2>
+        <h2 className="text-3xl font-bold text-center mb-12">Analyze Your Chest X-Ray</h2>
         
         <div className="bg-white rounded-lg shadow-lg p-8">
           <div className="mb-8">
             <label className="block text-gray-700 text-sm font-bold mb-2">
-              Upload X-Ray Image
+              Upload Chest X-Ray Image
             </label>
             <UploadButton onUpload={handleImageUpload} selectedImage={selectedImage} />
           </div>
