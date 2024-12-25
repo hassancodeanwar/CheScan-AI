@@ -30,7 +30,7 @@ export default function AnalyzeForm() {
   return (
     <section id="analyze" className="py-16 bg-gray-50">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-3xl font-bold text-center mb-12">Analyze Your Chest X-Ray</h2>
+        <h3 className="text-3xl font-bold text-center mb-12">Analyze Your Chest X-Ray</h3>
         
         <div className="bg-white rounded-lg shadow-lg p-8">
           <div className="mb-8">
