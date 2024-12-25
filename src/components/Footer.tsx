@@ -7,10 +7,10 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="flex items-center justify-center mb-8">
           <Stethoscope className="h-8 w-8 text-blue-400" />
-          <span className="ml-3 text-2xl font-bold">MedScan AI</span>
+          <span className="ml-3 text-2xl font-bold">ChesScan AI</span>
         </div>
         <p className="text-center text-gray-400">
-          © {new Date().getFullYear()} MedScan AI. All rights reserved.
+          © {new Date().getFullYear()} ChesScan AI. All rights reserved.
         </p>
       </div>
     </footer>
