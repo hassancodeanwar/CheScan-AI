@@ -4,25 +4,25 @@ import { Github, Linkedin } from 'lucide-react';
 export default function Team() {
   const team = [
     {
-      name: "Dr. Sarah Chen",
-      role: "AI Research Lead",
-      image: "https://github.com/hassananwar01/portfolio/blob/main/src/img/Sharkawy.jpg?raw=true",
-      github: "https://github.com/",
-      linkedin: "https://linkedin.comin/"
+      name: "Ahmed El-Sharkawy",
+      role: "AI Engineer",
+      image: "https://media.licdn.com/dms/image/v2/D4D03AQE2BWGyx3z-Tg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725639323365?e=1740614400&v=beta&t=MDrolwqxlAVaY1cmttKrOpf3WVP2tijfTGmUzx9myWM",
+      github: "https://github.com/Ahmed-el-sharkawy",
+      linkedin: "https://www.linkedin.com/in/a-y-elsharkawy/"
     },
     {
-      name: "Dr. James Wilson",
-      role: "Medical Director",
+      name: "Hassan Anwar",
+      role: "AI Engineer",
       image: "https://github.com/hassananwar01/portfolio/blob/main/src/img/05.jpg?raw=true",
       github: "https://github.com/hassancodeanwar",
-      linkedin: "https://linkedin.comin/hassancodeanwar"
+      linkedin: "https://linkedin.com/in/hassancodeanwar"
     },
     {
-      name: "Emma Thompson",
+      name: "Mohamed Allam",
       role: "ML Engineer",
       image: "https://github.com/hassananwar01/portfolio/blob/main/src/img/m-allam.jpg?raw=true",
-      github: "https://github.co/",
-      linkedin: "https://linkedin.com/in/"
+      github: "https://github.com/mohamedallamai",
+      linkedin: "https://www.linkedin.com/in/mohamedallamai/"
     }
   ];
 
