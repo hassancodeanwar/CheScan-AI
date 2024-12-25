@@ -6,21 +6,21 @@ export default function Team() {
     {
       name: "Ahmed El-Sharkawy",
       role: "AI Engineer",
-      image: "https://media.licdn.com/dms/image/v2/D4D03AQE2BWGyx3z-Tg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725639323365?e=1740614400&v=beta&t=MDrolwqxlAVaY1cmttKrOpf3WVP2tijfTGmUzx9myWM",
+      image: "https://github.com/hassananwar01/img/blob/main/Sharkawy.png?raw=true",
       github: "https://github.com/Ahmed-el-sharkawy",
       linkedin: "https://www.linkedin.com/in/a-y-elsharkawy/"
     },
     {
       name: "Hassan Anwar",
       role: "AI Engineer",
-      image: "https://github.com/hassananwar01/portfolio/blob/main/src/img/05.jpg?raw=true",
+      image: "https://github.com/hassananwar01/img/blob/main/Anwar.png?raw=true",
       github: "https://github.com/hassancodeanwar",
       linkedin: "https://linkedin.com/in/hassancodeanwar"
     },
     {
       name: "Mohamed Allam",
       role: "ML Engineer",
-      image: "https://github.com/hassananwar01/portfolio/blob/main/src/img/m-allam.jpg?raw=true",
+      image: "https://github.com/hassananwar01/img/blob/main/Allam.png?raw=true",
       github: "https://github.com/mohamedallamai",
       linkedin: "https://www.linkedin.com/in/mohamedallamai/"
     }
