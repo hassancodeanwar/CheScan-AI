@@ -1,13 +1,13 @@
 # CheScan-AI
 ## Description
 
-CheScan-AI is an innovative project built with a focus on leveraging artificial intelligence for scalable and efficient solutions. This repository contains the source code and resources to get started with CheScan-AI. It is primarily written in TypeScript, with additional use of JavaScript, HTML, and CSS.
+CheScan-AI is a web application that integrates the `PoweredPneumoniaDiagnosis` AI model to provide intelligent diagnostics for pneumonia. The project combines advanced machine learning capabilities with a user-friendly web interface built using modern web technologies.
 
 ## Features
 
+- **AI Integration:** Utilizes the `PoweredPneumoniaDiagnosis` AI model for pneumonia detection.
 - **TypeScript-Powered:** The core logic of the project is built using TypeScript for type safety and maintainability.
-- **AI-Driven:** Implements artificial intelligence algorithms and models to deliver intelligent solutions.
-- **Web-Based:** Built with web technologies like HTML, CSS, and JavaScript, ensuring cross-platform compatibility.
+- **Web-Based:** Built with HTML, CSS, and JavaScript for a responsive and accessible interface.
 - **StackBlitz Integration:** Developed and integrated with StackBlitz for a seamless cloud-based development experience.
 
 ## Language Composition
@@ -60,7 +60,7 @@ The optimized output will be available in the `dist` directory.
 
 ## Contributing
 
-Contributions are welcome! If you have any ideas or suggestions, feel free to open an issue or create a pull request.
+Contributions are welcome! Feel free to open an issue or create a pull request if you have any ideas or suggestions.
 
 ## License
 
@@ -69,4 +69,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - Thanks to [StackBlitz](https://stackblitz.com/) for providing a powerful and intuitive online development environment.
+- Special thanks to the `PoweredPneumoniaDiagnosis` AI model for enabling advanced diagnostics within the application.
 ```
