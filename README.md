@@ -66,8 +66,4 @@ Contributions are welcome! Feel free to open an issue or create a pull request i
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
 
-- Thanks to [StackBlitz](https://stackblitz.com/) for providing a powerful and intuitive online development environment.
-- Special thanks to the `PoweredPneumoniaDiagnosis` AI model for enabling advanced diagnostics within the application.
-```
